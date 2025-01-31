@@ -9,7 +9,7 @@ This project uses JSONPlaceholder APIs to perform CRUD operations using Flask fr
 
 ## Running the application
 After cloning the repository, start flask server by running
-flask --app hello run
+flask --app task run
 
 The server starts on http://127.0.0.1:5000/
 
